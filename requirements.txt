@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+numpy
+matplotlib
+pillow
+jupyter
+ipykernel
+nbformat
+nbconvert

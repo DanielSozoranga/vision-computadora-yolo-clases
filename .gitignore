@@ -1,0 +1,25 @@
+# Entorno virtual
+vision-yolo/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Variables de entorno
+.env
+
+# Modelos y salidas de Ultralytics (se descargan o regeneran solos)
+*.pt
+runs/
+
+# Videos generados por el notebook (pesan varios MB y se regeneran al ejecutarlo)
+reports/*.mp4
+
+# Sistema
+.DS_Store
+Thumbs.db
